@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">WeatherApp</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string-array name="city_list">
+        <item>CARD VIEW 1</item>
+        <item>CARD VIEW 2</item>
+        <item>CARD VIEW 3</item>
+        <item>ETC. Still need to implement</item>
+    </string-array>
+
+</resources>
